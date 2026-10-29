@@ -18,6 +18,3 @@
 
 #### Pai-Gen-open
 * [don't click](pai-gen-open)
-
-#### test
-* [test, don't click](test-repo)
