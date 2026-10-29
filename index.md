@@ -14,4 +14,10 @@
 
 #### DonDe open
 * any-probability any-dimension explainable AI
-* [available soon, don't click](donde-open) 
+* [available soon, don't click](donde-open)
+
+#### Policy
+* to benefit related scientific research community
+* to inspire future research on human-like learning
+* for future intelligence
+* for the future of the whole human civilization
