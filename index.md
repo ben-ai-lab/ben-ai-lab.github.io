@@ -20,4 +20,4 @@
 * [don't click](pai-gen-open)
 
 #### test
-* [test](test-repo)
+* [test, don't click](test-repo)
