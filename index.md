@@ -15,6 +15,3 @@
 #### DonDe open
 * any-probability any-dimension explainable AI
 * [available soon, don't click](donde-open) 
-
-#### Pai-Gen-open
-* [don't click](pai-gen-open)
