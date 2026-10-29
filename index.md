@@ -13,7 +13,7 @@
 * [don't click](kal2sf)
 
 #### DonDe open
-* any-probability any-dimension explainable AI
+* any-probability any-dimension explainability for continuous values
 * [don't click](donde-open)
 
 #### Policy
