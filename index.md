@@ -10,14 +10,14 @@
 
 #### KAL2SF 
 * resolves scaling laws and eliminates hallucinations by approaching human-like learning 
-* [available soon](ben-ai-lab.github.io/kal2sf)
+* [available soon, don't click](kal2sf)
 
 #### DonDe
 * any-probability any-dimension explainable AI
-* [available soon](ben-ai-lab.github.io/donde-open) 
+* [available soon, don't click](donde-open) 
 
 #### Pai-Gen-open
-* [available soon](ben-ai-lab.github.io/pai-gen-open)
+* [don't click](pai-gen-open)
 
 #### test
 * [test](test-repo)
