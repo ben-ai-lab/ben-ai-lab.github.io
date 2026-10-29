@@ -6,13 +6,13 @@
 * envisaging future AI
 * to be, or not to be: the enigmatic AI lab, that is the question
 
-## open source
+## Open Source
 
 #### KAL2SF 
 * resolves scaling laws and eliminates hallucinations by approaching human-like learning 
 * [available soon, don't click](kal2sf)
 
-#### DonDe
+#### DonDe open
 * any-probability any-dimension explainable AI
 * [available soon, don't click](donde-open) 
 
