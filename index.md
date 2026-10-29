@@ -10,11 +10,11 @@
 
 #### KAL2SF 
 * resolves scaling laws and eliminates hallucinations by approaching human-like learning 
-* [available soon, don't click](kal2sf)
+* [don't click](kal2sf)
 
 #### DonDe open
 * any-probability any-dimension explainable AI
-* [available soon, don't click](donde-open)
+* [don't click](donde-open)
 
 #### Policy
 * to benefit related scientific research community
