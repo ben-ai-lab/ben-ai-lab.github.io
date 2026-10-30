@@ -2,6 +2,7 @@
 * envisaging future AI
 * to be, or not to be: the enigmatic AI lab, that is the question
 * [GitHub page](https://github.com/ben-ai-lab)
+* [official website](http://benai.com.cn/en/benai-lab)
 
 ## 十年一剑桥实验室
 * 预见未来的AI
