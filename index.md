@@ -12,13 +12,13 @@
 
 #### KAL2SF 
 * resolves scaling laws and eliminates hallucinations by approaching human-like learning 
-* [project introduction, don't click](kal2sf)
-* [source code, don't click](https://github.com/ben-ai-lab/kal2sf)
+* [introduction](kal2sf) (not ready, don't click)
+* [source code](https://github.com/ben-ai-lab/kal2sf) (not ready, don't click)
 
 #### DonDe open
 * any-probability any-dimension explainability for continuous values
-* [project introduction, don't click](donde-open)
-* [source code, don't click](https://github.com/ben-ai-lab/donde-open)
+* [introduction](donde-open) (not ready, don't click)
+* [source code](https://github.com/ben-ai-lab/donde-open) (not ready, don't click)
 
 #### Open Source Policy
 * to benefit related scientific research community
