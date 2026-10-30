@@ -8,6 +8,9 @@
 
 ## Open Source
 
+#### BenAI Lab
+* [the lab](https://github.com/ben-ai-lab)
+
 #### KAL2SF 
 * resolves scaling laws and eliminates hallucinations by approaching human-like learning 
 * [project introduction, don't click](kal2sf)
