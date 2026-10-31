@@ -1,3 +1,3 @@
 ## test repo project 
-* project [introduction](test-repo)
+* [algorithm introduction](test-repo/readme)
 * [source code](https://github.com/ben-ai-lab/test-repo)
