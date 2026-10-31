@@ -14,12 +14,10 @@
 #### KAL2SF 
 * resolves scaling laws and eliminates hallucinations by approaching human-like learning 
 * [[available soon]]
-* [source code]() (not ready, don't click)
 
 #### DonDe Open
 * any-probability any-dimension explainability for continuous values
 * [[available soon]]
-* [source code]() (not ready, don't click)
 
 #### Source Code Availability Explained 
 * [[available soon]]: source code will be available at a later time
