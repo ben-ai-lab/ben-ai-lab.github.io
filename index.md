@@ -14,16 +14,16 @@
 * [introduction](kal2sf) (not ready, don't click)
 * [source code](https://github.com/ben-ai-lab/kal2sf) (not ready, don't click)
 
-#### DonDe open \[available soon\]
+#### DonDe open [[available soon]]
 * any-probability any-dimension explainability for continuous values
 * [introduction](donde-open) (not ready, don't click)
 * [source code](https://github.com/ben-ai-lab/donde-open) (not ready, don't click)
 
 #### Source Code Availability
 * [[available soon]]: source code will be available at a later time
-* \[available afterwards\]: source code will be available after sufficient funding secured, check out our website for details
-* [[ freely available ]]: freely open source
-* \[ conditionally available \]: source code availability is subject to our special open source policy, check out our website for details
+* [[available afterwards]]: source code will be available after sufficient funding secured, check out our website for details
+* [[freely available]]: freely open source
+* [[conditionally available]]: source code availability is subject to our special open source policy, check out our website for details
 
 ## Purposes of Open Source
 * to benefit related scientific research community
