@@ -12,17 +12,17 @@
 
 #### KAL2SF 
 * resolves scaling laws and eliminates hallucinations by approaching human-like learning 
-* [[available soon]]
+* (available soon)
 
 #### DonDe Open
 * any-probability any-dimension explainability for continuous values
-* [[available soon]]
+* (available soon)
 
 # Source Code Availability Explained 
-* [[available soon]]: source code will be available at a later time
-* [[available afterwards]]: source code will be available after sufficient funding secured
-* [[freely available]]: freely open source
-* [[conditionally available]]: source code availability is subject to our special open source policy
+* (available soon): source code will be available at a later time
+* (available afterwards): source code will be available after sufficient funding secured
+* (freely available): freely open source
+* (conditionally available): source code availability is subject to our special open source policy
 
 # Purpose of Open Source
 * to benefit relevant scientific research community
