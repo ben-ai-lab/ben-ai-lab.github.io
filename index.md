@@ -1,15 +1,14 @@
-## BenAI Lab
+# BenAI Lab
 * envisaging future AI
 * to be, or not to be: the enigmatic AI lab, that is the question
-* [GitHub page](https://github.com/ben-ai-lab)
 * [official website](http://benai.com.cn/en/benai-lab)
 
-## 十年一剑桥实验室
+# 十年一剑桥实验室
 * 预见未来的AI
 * 十年磨一剑，此剑非干将亦非莫邪，乃欲假剑桥之名以明志耳
 * [官网](http://benai.com.cn/cn/benai-lab/)
 
-## Source Code
+# Source Code
 
 #### KAL2SF 
 * resolves scaling laws and eliminates hallucinations by approaching human-like learning 
@@ -19,13 +18,13 @@
 * any-probability any-dimension explainability for continuous values
 * [[available soon]]
 
-#### Source Code Availability Explained 
+# Source Code Availability Explained 
 * [[available soon]]: source code will be available at a later time
 * [[available afterwards]]: source code will be available after sufficient funding secured, check out our website for details
 * [[freely available]]: freely open source
 * [[conditionally available]]: source code availability is subject to our special open source policy, check out our website for details
 
-## Purposes of Open Source
+# Purposes of Open Source
 * to benefit relevant scientific research community
 * to inspire future research on human-like learning
 * for future intelligence
