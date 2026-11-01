@@ -20,11 +20,11 @@
 
 # Source Code Availability Explained 
 * [[available soon]]: source code will be available at a later time
-* [[available afterwards]]: source code will be available after sufficient funding secured, check out our website for details
+* [[available afterwards]]: source code will be available after sufficient funding secured
 * [[freely available]]: freely open source
-* [[conditionally available]]: source code availability is subject to our special open source policy, check out our website for details
+* [[conditionally available]]: source code availability is subject to our special open source policy
 
-# Purposes of Open Source
+# Purpose of Open Source
 * to benefit relevant scientific research community
 * to inspire future research on human-like learning
 * for future intelligence
