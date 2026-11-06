@@ -1,7 +1,7 @@
 # BenAI Lab
 * envisaging future AI
 * to be, or not to be: the enigmatic AI lab, that is the question
-* [official website](http://benai.com.cn/en/benai-lab)
+* [official website](http://benai.com.cn/en/benai-lab/)
 
 # 十年一剑桥实验室
 * 预见未来的AI
@@ -10,11 +10,11 @@
 
 # Source Code
 
-#### KAL2SF 
+#### KAL2SF algorithm 
 * resolves scaling laws and eliminates hallucinations by approaching human-like learning 
 * (available soon)
 
-#### DonDe Open
+#### DonDe-Open algorithm 
 * any-probability any-dimension explainability for continuous values
 * (available soon)
 
