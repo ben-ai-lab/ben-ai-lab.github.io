@@ -13,7 +13,7 @@
 * (available soon)
 
 #### DonDe-Open algorithm 
-* any-probability any-dimension explainability for continuous values
+* any-probability any-dimension explainability for structured data
 * (available soon)
 
 # Source Code Availability Explained 
