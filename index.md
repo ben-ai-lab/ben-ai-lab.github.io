@@ -16,6 +16,10 @@
 * any-probability any-dimension explainability for structured data
 * (available soon)
 
+#### VIC algorithm
+* explainable and generalisable image recognition
+* (available soon)
+
 # Source Code Availability Explained 
 * (available soon): source code will be available at a later time
 * (available afterwards): source code will be available after sufficient funding secured
