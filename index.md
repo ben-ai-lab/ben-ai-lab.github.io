@@ -1,4 +1,4 @@
-## Source Code
+## Source Code by BenAI
 
 #### VIC algorithm
 * explainable and generalisable image recognition
@@ -28,7 +28,7 @@
 * for the future of the whole human civilization
 
 # BenAI Lab
-* to be, or not to be: the enigmatic AI lab, that is the question
+* to be, or not to ***b***e: the ***en***igmatic ***AI*** lab, that is the question
 * [official website](http://benai.com.cn/en/benai-lab/)
 
 # 十年一剑桥实验室
