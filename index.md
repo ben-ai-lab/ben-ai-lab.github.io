@@ -1,17 +1,17 @@
 ## Source Code by BenAI
 
 #### VIC algorithm
-* explainable and generalisable image recognition
+* image classification 
 * [introduction](vic-v1-intro)
 * (available soon)
 
 #### DonDe algorithm 
-* explainable AI for structured data
+* explainable AI 
 * [introduction](donde-v1-intro)
 * (available soon)
 
 #### KAL2 algorithm 
-* resolves scaling laws and eliminates hallucinations 
+* slot-filling of natural language understanding 
 * [introduction](kal2-v1-intro)
 * (available soon)
 
@@ -28,7 +28,7 @@
 * for the future of the whole human civilization
 
 # BenAI Lab
-* to be, or not to ***b***e: the ***en***igmatic ***AI*** lab, that is the question
+* to ***b***e, or not to be: the ***en***igmatic ***AI*** lab, that is the question
 * [official website](http://benai.com.cn/en/benai-lab/)
 
 # 十年一剑桥实验室

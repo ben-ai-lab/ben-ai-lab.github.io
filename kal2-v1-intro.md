@@ -1,4 +1,4 @@
 ### KAL2 algorithm v1
-* resolve scaling laws and eliminate hallucinations by approaching human-like learning
+* resolves scaling laws and eliminates hallucinations 
 * technical report
 * (available soon)
