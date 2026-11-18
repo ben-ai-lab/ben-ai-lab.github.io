@@ -1,4 +1,4 @@
 ### DonDe algorithm v1
-* any-probabilitiy any-dimension explainability for continuous values of structured data 
+* any-probabilitiy any-dimension explainability 
 * technical report
 * (available soon)

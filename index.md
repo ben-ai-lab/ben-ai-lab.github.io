@@ -1,3 +1,5 @@
+# BenAI Lab
+
 ## Source Code by BenAI
 
 #### VIC algorithm
@@ -11,15 +13,15 @@
 * (available soon)
 
 #### KAL2 algorithm 
-* slot-filling of natural language understanding 
+* natural language understanding 
 * [introduction](kal2-v1-intro)
 * (available soon)
 
 ### Availability Explained 
+* (freely available): freely open source
 * (available soon): source code will be available at a later time
 * (available afterwards): source code will be available after sufficient funding secured
-* (freely available): freely open source
-* (conditionally available): source code availability is subject to our special open source policy
+* (conditionally available): source code availability is subject to our special open source policy, contact us for details 
 
 ### Purpose to Open Source
 * to benefit relevant scientific research community
