@@ -1,6 +1,6 @@
 # BenAI Lab
 
-## Source Code by BenAI
+## Source Code
 
 #### VIC algorithm
 * image classification 
