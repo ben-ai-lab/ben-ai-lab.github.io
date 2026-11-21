@@ -2,6 +2,11 @@
 
 ## Source Code
 
+#### KAL2 algorithm 
+* natural language understanding 
+* [introduction](kal2-v1-intro)
+* (available soon)
+
 #### VIC algorithm
 * image classification 
 * [introduction](vic-v1-intro)
@@ -10,18 +15,14 @@
 #### DonDe algorithm 
 * explainable AI 
 * [introduction](donde-v1-intro)
-* (available soon)
-
-#### KAL2 algorithm 
-* natural language understanding 
-* [introduction](kal2-v1-intro)
-* (available soon)
+* (suspended)
 
 ### Availability Explained 
 * (freely available): freely open source
 * (available soon): source code will be available at a later time
 * (available afterwards): source code will be available after sufficient funding secured
 * (conditionally available): source code availability is subject to our special open source policy, contact us for details 
+* (suspended) development suspended due to funding restrictions 
 
 ### Purpose to Open Source
 * to benefit relevant scientific research community
