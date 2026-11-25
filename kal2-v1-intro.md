@@ -1,5 +1,5 @@
 ### KAL2 algorithm v1
-* resolves scaling laws and eliminates hallucinations 
+* resolve scaling laws and eliminate hallucinations 
 * demonstrated by slot-filling of natural language understanding 
 * technical report
 * (available soon)
